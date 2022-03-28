@@ -1,0 +1,2 @@
+put poldom folder in your resource folder
+add "ensure poldom" to server.cfg

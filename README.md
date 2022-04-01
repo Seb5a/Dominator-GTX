@@ -1,2 +1,2 @@
 # Dominator-GTX
-Vapid Dominator GTX Police
+Vapid Dominator GTX Police + Civilian 
